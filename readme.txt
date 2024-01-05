@@ -1,6 +1,5 @@
 CS 214 Fall 2023: Project I: My little malloc() 
-Mia Wu: cw984
-Sri Akshara Kollu: sk2342
+By Mia Wu and Sri Akshara Kollu
 
 Objective:
 To implement your own versions of the standard library functions malloc() and free() and detect common usage errors and report them
