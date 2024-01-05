@@ -1,5 +1,5 @@
 # MyMalloc
-Rutgers CS 214 Fall 2023 Project I: My little malloc() 
+CS 214 Fall 2023 Project I: My little malloc() 
 
 By Mia Wu and Sri Akshara Kollu
 
